@@ -1,0 +1,1 @@
+alter table ordem_servico add status varchar(20) not null after preco; 
